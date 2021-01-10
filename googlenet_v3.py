@@ -1,3 +1,7 @@
+# Implement by moeo3 in 1/9/2020
+# github repo: https://github.com/Moeo3/GoogLeNet-Inception-V3-pytorch
+# APACHE LICENSE, VERSION 2.0
+
 from torch.nn import Module, Sequential, LeakyReLU, Conv2d, BatchNorm2d, AvgPool2d, MaxPool2d, AdaptiveAvgPool2d, Linear
 import torch
 
